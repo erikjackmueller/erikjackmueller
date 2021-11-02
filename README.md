@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erikjackmueller, student at the Ilmenau University of Technology and guest researcher at the Max-Planck-Institute for Cognitive and Brain Science.
 - 👀 I’m interested in bioelectromagnetics and electromagentic source localization.
-- 🌱 I’m currently learning to do sensitivity analysis of physical models in python with pygpc.
+- 🌱 I’m currently learning to do sensitivity analysis of physical models in python with pygpc and analyzing dynamical systems with DynamicalSystems.jl in julia.
 - 💞️ I’m looking to collaborate on modelling complex dynamical systems and sparse signal reconstruction.
 - 📫 How to reach me: erikjackmueller@gmail.com
 
